@@ -3,9 +3,17 @@
     background-color: blue;
     overflow: hidden;
     width: 100%;
-    
 }
-nav ul{
+#navbar-container{
+    display: block;
+    float: left;
+    left: 50%;
+}
+#navbar-container ul {
     list-style-type: none;
+    margin: 0;
     padding: 0;
+}
+#navbar-container ul li{
+
 }
