@@ -28,3 +28,7 @@
 #navbar-container ul li a{
     color: white;
 }
+#onpage{
+    text-decoration: underline overline;
+    text-decoration-color: white;
+}
