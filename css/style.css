@@ -32,3 +32,23 @@
     text-decoration: underline overline;
     text-decoration-color: white;
 }
+#sidebar{
+    background-color: red;
+    position: fixed;
+    height: 100%;
+    width: 25%
+}
+#sidebar-container{
+    display: block;
+    text-align: center;
+}
+#sidebar-contanier ul{
+    list-style-type: none;
+    padding: 0;
+}
+#sidebar-container ul li{
+    padding: 10px;
+}
+#sidebar-container ul li a{
+    color: white;
+}
