@@ -46,7 +46,6 @@
 #sidebar-contanier ul{
     list-style-type: none;
     padding: 0;
-    display: block;
 }
 #sidebar-container ul li{
     padding: 10px;
