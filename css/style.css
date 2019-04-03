@@ -37,7 +37,7 @@
     position: fixed;
     height: 100%;
     width: 25%;
-    right: 0;
+    right: 0%;
 }
 #sidebar-container{
     display: block;
@@ -46,6 +46,7 @@
 #sidebar-contanier ul{
     list-style-type: none;
     padding: 0;
+    display: block;
 }
 #sidebar-container ul li{
     padding: 10px;
