@@ -36,7 +36,8 @@
     background-color: red;
     position: fixed;
     height: 100%;
-    width: 25%
+    width: 25%;
+    right: 0;
 }
 #sidebar-container{
     display: block;
@@ -50,5 +51,7 @@
     padding: 10px;
 }
 #sidebar-container ul li a{
+    text-decoration-color: none;
     color: white;
+
 }
