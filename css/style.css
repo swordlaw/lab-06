@@ -8,12 +8,21 @@
     display: block;
     float: left;
     left: 50%;
+    position: relative;
 }
 #navbar-container ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: block;
+    float: left;
+    position: relative;
+    right: 50%;
 }
 #navbar-container ul li{
+    float: left;
 
+}
+#navbar-container ul li a{
+    color: white;
 }
